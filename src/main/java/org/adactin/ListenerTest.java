@@ -1,11 +1,6 @@
 package org.adactin;
 import java.io.IOException;
 
-import org.openqa.selenium.TakesScreenshot;
-import org.testng.ITestContext;
-import org.testng.ITestListener;
-import org.testng.ITestResult;
-
 public class ListenerTest extends BaseClass implements ITestListener{
 
 	@Override		

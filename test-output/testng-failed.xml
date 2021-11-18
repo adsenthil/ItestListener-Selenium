@@ -5,8 +5,9 @@
     <classes>
       <class name="org.adactin.TestCases">
         <methods>
-          <include name="TestToFail"/>
-          <include name="Login2"/>
+          <include name="dateSelectCheck"/>
+          <include name="browserClose"/>
+          <include name="browserLaunch"/>
         </methods>
       </class> <!-- org.adactin.TestCases -->
     </classes>
